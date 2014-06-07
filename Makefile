@@ -2,7 +2,7 @@
 
 indir=latex
 outdir=pdf
-filename=paper1
+filename=paper2
 
 normal: $(indir)/*.tex
 	mkdir -p $(outdir)
